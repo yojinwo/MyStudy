@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "MyVsc_80c15422"
+        },
+        {
+            "type": "java",
+            "name": "ScannerCafeMain",
+            "request": "launch",
+            "mainClass": "ScannerCafe_itwill.ScannerCafeMain",
+            "projectName": "MyVsc_80c15422"
+        },
+        {
+            "type": "java",
+            "name": "StudentManagerTest",
+            "request": "launch",
+            "mainClass": "StudentList.StudentManagerTest",
+            "projectName": "MyVsc_80c15422"
+        },
+        {
+            "type": "java",
+            "name": "MemberService",
+            "request": "launch",
+            "mainClass": "ch06_question.MemberService",
+            "projectName": "MyVsc_80c15422"
+        },
+        {
+            "type": "java",
+            "name": "AnimalMain",
+            "request": "launch",
+            "mainClass": "package1.AnimalMain",
+            "projectName": "MyVsc_80c15422"
+        }
+    ]
+}
