@@ -10,5 +10,6 @@ public class test {
     System.out.println("you");
     System.out.println("박설화");
     System.out.println("유진우");
+    System.out.println("ddd");
     }
 }
